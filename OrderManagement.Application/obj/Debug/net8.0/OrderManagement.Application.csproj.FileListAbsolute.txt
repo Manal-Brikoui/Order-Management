@@ -1,0 +1,17 @@
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.deps.json
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.dll
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Application.pdb
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Domain.dll
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Infrastructure.dll
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Domain.pdb
+E:\OrderManagementSystem\OrderManagement.Application\bin\Debug\net8.0\OrderManagement.Infrastructure.pdb
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.csproj.AssemblyReference.cache
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.AssemblyInfoInputs.cache
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.AssemblyInfo.cs
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.csproj.CoreCompileInputs.cache
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderMan.B2E1D241.Up2Date
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.dll
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\refint\OrderManagement.Application.dll
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\OrderManagement.Application.pdb
+E:\OrderManagementSystem\OrderManagement.Application\obj\Debug\net8.0\ref\OrderManagement.Application.dll

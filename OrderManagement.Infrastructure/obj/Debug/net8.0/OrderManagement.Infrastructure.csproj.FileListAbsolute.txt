@@ -1,0 +1,17 @@
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.deps.json
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.runtimeconfig.json
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.dll
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.pdb
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.dll
+E:\OrderManagementSystem\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.pdb
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfo.cs
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderMan.FDF35C14.Up2Date
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.dll
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\refint\OrderManagement.Infrastructure.dll
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.pdb
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.genruntimeconfig.cache
+E:\OrderManagementSystem\OrderManagement.Infrastructure\obj\Debug\net8.0\ref\OrderManagement.Infrastructure.dll
