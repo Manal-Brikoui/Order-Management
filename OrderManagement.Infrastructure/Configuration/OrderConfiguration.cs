@@ -10,7 +10,7 @@ namespace OrderManagement.Infrastructure.Configuration
         {
             // Configuration de l'entité Order
 
-            // Définition de la clé primaire
+            
             builder.HasKey(o => o.OrderId);
 
             // Configuration des propriétés
