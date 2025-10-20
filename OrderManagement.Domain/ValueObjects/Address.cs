@@ -11,7 +11,7 @@ namespace OrderManagement.Domain.ValueObjects
         public string Postalcode { get; }
         public string Country { get; }
 
-        // Constructeur de l'adresse avec validation
+        
         public Address(string street, string city, string state, string postalcode, string country)
         {
             ValidateNonEmpty(street, "Street");
@@ -20,7 +20,6 @@ namespace OrderManagement.Domain.ValueObjects
             ValidateNonEmpty(postalcode, "PostalCode");
             ValidateNonEmpty(country, "Country");
 
-            // Validation du code postal, exemple américain
             ValidatePostalCode(postalcode);
 
             Street = street;
@@ -30,7 +29,7 @@ namespace OrderManagement.Domain.ValueObjects
             Country = country;
         }
 
-        // Validation des champs non vides
+   
         private static void ValidateNonEmpty(string value, string fieldName)
         {
             if (string.IsNullOrEmpty(value))
@@ -40,7 +39,7 @@ namespace OrderManagement.Domain.ValueObjects
         // Validation du format de code postal
         private static void ValidatePostalCode(string postalcode)
         {
-            // Exemple de regex pour un code postal américain (XXXXX ou XXXXX-XXXX)
+           
             string pattern = @"^\d{5}(-\d{4})?$"; // Vous pouvez adapter cette regex selon le format souhaité
             if (!Regex.IsMatch(postalcode, pattern))
                 throw new ArgumentException("Invalid PostalCode format", nameof(postalcode));
