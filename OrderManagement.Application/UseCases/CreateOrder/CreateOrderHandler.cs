@@ -25,7 +25,6 @@ namespace OrderManagement.Application.UseCases.CreateOrder
             // Appel du repository pour ajouter la commande
             await _orderRepository.AddAsync(order);
 
-            // Transformation de l'entité Order en DTO pour la réponse
             return new OrderDto
             {
                 OrderId = order.OrderId,
